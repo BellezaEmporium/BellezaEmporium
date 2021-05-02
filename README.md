@@ -1,6 +1,6 @@
 ### You found me, congratulations !
 
-Greetings young padawan, I'm known by my pseudonym : Shad.
+Greetings young padawan, I'm Shadix, but I'm known by my diminutive "Shad".
 
 I'm a polyvalent developer, aiming to discover and improve myself on many programmation languages (such as PHP with Symfony, and also C#).
 
