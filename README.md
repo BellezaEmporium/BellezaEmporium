@@ -6,6 +6,6 @@ I'm a polyvalent developer, aiming to discover and improve myself on many progra
 
 - 🔭 I’m currently working with the C# language.
 - 🌱 I’m currently learning Oracle's PL/SQL.
-- 📫 You can find me here, but if there's something you want to ask, just PM me on Discord @ My5tic4l#3237.
+- 📫 You can find me here, but if there's something you want to ask, just send an email at lanesh4d0w@gmail.com.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I'm stubborn (whoops !).
