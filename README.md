@@ -9,3 +9,5 @@ I'm a polyvalent developer, aiming to discover and improve myself on many progra
 - 📫 You can find me here, but if there's something you want to ask, just send an email at lanesh4d0w@gmail.com.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I'm stubborn (whoops !).
+
+![Shadix's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanesh4d0w&show_icons=true)
