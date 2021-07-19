@@ -6,7 +6,7 @@ I'm a polyvalent developer, aiming to discover and improve myself on many progra
 
 - 🔭 I’m currently working with the C# language.
 - 🌱 I’m currently preparing something.
-- 📫 You can find me here, but if there's something you want to ask, just send an email at lanesh4d0w@gmail.com.
+- 📫 You can find me here, but if there's something you want to ask, just send an email at lanesh4d0w@gmail.com. (Do not send emails with nothing in it nor weird stuff).
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I'm stubborn (whoops !).
 
