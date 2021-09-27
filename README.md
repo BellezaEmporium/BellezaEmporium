@@ -6,7 +6,7 @@ I'm a polyvalent developer, aiming to discover and improve myself on many progra
 
 - 🔭 I’m currently working with Python.
 - 🌱 I’m currently preparing something.
-- 📫 You can find me here or on [GitLab](https://gitlab.com/theofficialomega), but if there's something you want to ask, just send an email at lanesh4d0w@gmail.com. (Do not send emails with nothing in it nor weird stuff).
+- 📫 You can find me here or on [GitLab](https://gitlab.com/theofficialomega), but if there's something you want to ask, just send an email at lanesh4d0w@gmail.com. (Do not send emails requesting stuff, when you can request them using the various repositories in which I operate. Do not also send me emails containing no subject / nothing in it nor weird stuff).
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I'm stubborn (whoops !).
 
