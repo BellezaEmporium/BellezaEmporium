@@ -4,7 +4,7 @@ Greetings young padawan, I'm Ismaël.
 
 I'm a polyvalent developer, aiming to discover and improve myself on many programmation languages (such as PHP with Symfony, and also C#).
 
-My most notable projects were for the [@iptv-org](https://github.com/iptv-org) organisation, with [query-streamlink](https://github.com/LaneSh4d0w/query-streamlink), in which permitted to open new doors for making live streams available for everyone.
+One of my most notable projects was for the [@iptv-org](https://github.com/iptv-org) organisation, with [query-streamlink](https://github.com/LaneSh4d0w/query-streamlink), in which permitted to open new doors for making live streams available for everyone.
 
 - 🔭 I’m currently working with Python.
 - 🌱 I’m currently preparing something.
