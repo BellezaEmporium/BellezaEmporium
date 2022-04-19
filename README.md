@@ -1,6 +1,6 @@
 ### You found me, congratulations !
 
-Greetings young padawan, I'm Ismaël. I'm a polyvalent developer, aiming to discover and improve myself on many programmation languages (such as PHP with Symfony or Laravel, and also C#).
+Greetings young padawan. I'm a polyvalent developer, aiming to discover and improve myself on many programmation languages (such as PHP with Symfony or Laravel, and also C#).
 
 You might know me from the [query-streamlink](https://github.com/LaneSh4d0w/query-streamlink) project, that permitted to open new doors for making live streams available for everyone.
 Or you might know me for being one of the many translators of PCSX2, in the French language.
