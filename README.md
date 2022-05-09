@@ -6,7 +6,7 @@ You might know me from the [query-streamlink](https://github.com/LaneSh4d0w/quer
 Or you might know me for being one of the many translators of PCSX2, in the French language.
 
 - 🔭 I’m currently working with Python.
-- 🌱 I’m currently preparing a generative adversarial neural network for a presentation.
+- 🌱 I’m currently integrating a device in a production chain.
 - 📫 You can find me here or on [GitLab](https://gitlab.com/theofficialomega), but if there's something you want to ask, just send an email [here](mailto:lanesh4d0w@gmail.com). (Do not send emails requesting stuff, when you can request them using the various repositories in which I operate. Do not also send me emails containing no subject / nothing in it nor weird stuff).
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I'm stubborn (whoops !).
