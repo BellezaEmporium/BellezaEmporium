@@ -7,7 +7,7 @@ Or you might know me for being one of the many translators of PCSX2, in the Fren
 
 - 🔭 I’m currently working with Python.
 - 🌱 I’m currently integrating a device in a production chain.
-- 📫 You can find me here or on [GitLab](https://gitlab.com/theofficialomega), but if there's something you want to ask, just send an email [here](mailto:lanesh4d0w@gmail.com). (Do not send emails requesting stuff, when you can request them using the various repositories in which I operate. Do not also send me emails containing no subject / nothing in it nor weird stuff).
+- 📫 You can find me here or on [GitLab](https://gitlab.com/theofficialomega), but if there's something you want to ask, just send an email [here](mailto:lanesh4d0w@gmail.com). (Do not send emails requesting stuff, when you can request them using the various repositories in which I operate, as they will be ignored. Do not also send me emails containing no subject / nothing in it nor weird stuff).
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I'm stubborn (whoops !).
 - I have already worked with the C, C++, C#, Python, JavaScript, SQL, Oracle, HTML, CSS, PHP (with Symfony, looking after Laravel) languages and looking forward to learn more.
