@@ -11,5 +11,6 @@ Or you might know me for being one of the many translators of PCSX2, in the Fren
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I'm stubborn (whoops !).
 - I have already worked with the C, C++, C#, Python, JavaScript, SQL, Oracle, HTML, CSS, PHP (with Symfony, looking after Laravel) languages and looking forward to learn more. I have a little bit of knowledge of Go (if you're interested about this language and want to see some interesting implementations, go follow my engineering comrade [Karitham](https://github.com/Karitham) for some interesting Go projects).
+- I speak French (native), English (915 TOEIC European test) and a bit of Spanish (but bear with me while I'll try to sort out a sentence lol).
 
 ![Shadix's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanesh4d0w&show_icons=true)
