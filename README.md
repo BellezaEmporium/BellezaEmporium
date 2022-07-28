@@ -11,11 +11,12 @@ Or you might know me for being one of the many translators of PCSX2, in the Fren
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I'm stubborn (whoops !).
 - I have already worked with :
-  - these languages : C, C++, C#, Python, JavaScript, HTML, CSS, PHP
+  - these languages : C, C++, C#, Python, Java, JavaScript, HTML, CSS, PHP
   - these frameworks : PHP -> Symfony, Laravel
   - these front-end frameworks : JS -> React, a little bit of Vue
   - these back-end services : JS -> Node.js + Express.js / ORMs like Eloquent and Doctrine
   - these SQL engines : mySQL, MongoDB, Oracle DB
+  - these IDEs : Visual Studio (both Code and 2017/2019/2022), Eclipse, JetBrains (PyCharm, IntelliJ, WebStorm, PHPStorm)
 and I'm looking forward to learn more. 
 
 I have a little bit of knowledge of the Go programming language. *(if you're interested about this language and want to see some interesting implementations, go follow my engineering comrade [Karitham](https://github.com/Karitham) for some interesting Go projects)*
