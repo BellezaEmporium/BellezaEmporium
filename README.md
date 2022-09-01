@@ -21,6 +21,6 @@ and I'm looking forward to learn more.
 
 I have a little bit of knowledge of the Go programming language. *(if you're interested about this language and want to see some interesting implementations, go follow my engineering comrade [Karitham](https://github.com/Karitham) for some interesting Go projects)*
 
-- I speak French (natively), English (915 TOEIC European test) and a bit of Spanish (pero vas a necesitar tiempo para hacer una frase jaja).
+- I speak French (natively), English (915 TOEIC European test) and a bit of Spanish (pero voy a necesitar tiempo para hacer una frase jaja).
 
 ![Shadix's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanesh4d0w&show_icons=true)
