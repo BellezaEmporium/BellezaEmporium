@@ -5,8 +5,8 @@ Greetings young padawan. I'm a polyvalent developer, aiming to discover and impr
 You might know me from the [query-streamlink](https://github.com/LaneSh4d0w/query-streamlink) project, that permitted to open new doors for making live streams available for everyone.
 Or you might know me for being one of the many translators of PCSX2, in the French language.
 
-- 🔭 I’m currently on holidays !
-- 🌱 I’m currently searching for an French company that would accept me for a work/study course.
+- 🔭 I’m currently working pretty soon...
+- 🌱 I'm on a work/study course in an international company.
 - 📫 You can find me here or on [GitLab](https://gitlab.com/theofficialomega), but if there's something you want to ask, just send an email [here](mailto:lanesh4d0w@gmail.com). *(Please refrain from requesting stuff, when you can request them using the various repositories in which I operate, as they will be ignored. Do not also send me emails containing no subject / nothing in it nor weird stuff).*
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I'm stubborn (whoops !).
@@ -21,6 +21,6 @@ and I'm looking forward to learn more.
 
 I have a little bit of knowledge of the Go programming language. *(if you're interested about this language and want to see some interesting implementations, go follow my engineering comrade [Karitham](https://github.com/Karitham) for some interesting Go projects)*
 
-- I speak French (natively), English (915 TOEIC European test) and a bit of Spanish (but bear with me while I'll try to be understood when I talk lol).
+- I speak French (natively), English (915 TOEIC European test) and a bit of Spanish (pero vas a necesitar tiempo para hacer una frase jaja).
 
 ![Shadix's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanesh4d0w&show_icons=true)
