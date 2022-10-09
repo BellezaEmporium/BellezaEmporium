@@ -5,7 +5,7 @@ Greetings young padawan. I'm a polyvalent developer, aiming to discover and impr
 You might know me from the [query-streamlink](https://github.com/LaneSh4d0w/query-streamlink) project, that permitted to open new doors for making live streams available for everyone.
 Or you might know me for being one of the many translators of PCSX2, in the French language.
 
-- 🔭 I’m currently working pretty soon...
+- 🔭 I’m currently working for a company.
 - 🌱 I'm on a work/study course in an international company.
 - 📫 You can find me here or on [GitLab](https://gitlab.com/theofficialomega), but if there's something you want to ask, just send an email [here](mailto:lanesh4d0w@gmail.com). *(Please refrain from requesting stuff, when you can request them using the various repositories in which I operate, as they will be ignored. Do not also send me emails containing no subject / nothing in it nor weird stuff).*
 - 😄 Pronouns: he/him.
