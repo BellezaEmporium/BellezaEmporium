@@ -3,9 +3,9 @@
 Greetings young padawan. 
 I'm a polyvalent developer, aiming to discover and improve myself on many programmation languages (such as PHP with Symfony or Laravel, and also C#).
 
-You might know me from the [query-streamlink](https://github.com/LaneSh4d0w/query-streamlink) project, that permitted to open new doors for making live streams available for everyone.
-Or you might know me for being one of the many translators of PCSX2, for the French language.
+You might know me from the [query-streamlink](https://github.com/LaneSh4d0w/query-streamlink) project, that permitted to open new doors for making live streams available for everyone, or for being one of the many translators of PCSX2, for the French language.
 
+- I've worked in the fields of Web development and on Artificial Intelligence (see my repos and commits).
 - 🔭 I’m currently dealing with many things at once.
 - 🌱 I'm on a work/study course in an international company.
 - 📫 You can find me here or on [GitLab](https://gitlab.com/theofficialomega), but if there's something you want to ask, just send an email [here](mailto:lanesh4d0w@gmail.com). *(Please refrain from requesting certain things linked to the various repositories in which I operate, as they will be ignored. Do not send me emails containing no subject, no body or fishy stuff).*
