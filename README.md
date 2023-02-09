@@ -5,14 +5,13 @@ I'm a polyvalent developer, aiming to discover and improve myself on many progra
 
 You might know me from the [query-streamlink](https://github.com/LaneSh4d0w/query-streamlink) project, that permitted to open new doors for making live streams available for everyone, or for being one of the many translators of PCSX2, for the French language.
 
-- I've worked in the fields of Web development and on Artificial Intelligence (see my repos and commits).
-- 🔭 I’m currently dealing with many things at once.
-- 🌱 I'm on a work/study course in an international company.
-- 📫 You can find me here or on [GitLab](https://gitlab.com/theofficialomega), but if there's something you want to ask, just send an email [here](mailto:lanesh4d0w@gmail.com). *(Please refrain from requesting certain things linked to the various repositories in which I operate, as they will be ignored. Do not send me emails containing no subject, no body or fishy stuff).*
+- 🔭 I’m currently finishing my IT engineering studies.
+- 🌱 I'm on a work/study course in an multinational company.
+- 📫 I've worked in the fields of Web development and on Artificial Intelligence (see my repos and commits).
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I'm stubborn (whoops !).
 - I have already worked with :
-  - these languages : C, C++, C#, Python, Java, JavaScript, HTML, CSS, PHP, a little bit of Go *(if you're interested about this language and want to see some interesting implementations, go follow my engineering comrade [Karitham](https://github.com/Karitham) for some interesting Go projects)*
+  - these languages : C, C++, C#, Python, Java, JavaScript, HTML, CSS, PHP, a little bit of Go *(if you're interested about this language and want to see some interesting implementations, go follow my engineering colleague [Karitham](https://github.com/Karitham) for some interesting Go projects)*
   - these frameworks : front & back = PHP -> Symfony, Laravel | frontend only = JS -> a little bit of React and Vue
   - these backend libraries : JS -> Node.js + Express.js / ORMs like Eloquent and Doctrine
   - these SQL engines : mySQL, MongoDB, Oracle DB
