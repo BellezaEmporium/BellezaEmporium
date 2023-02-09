@@ -19,4 +19,4 @@ You might know me from the [query-streamlink](https://github.com/LaneSh4d0w/quer
 *and I'm looking forward to learn more.*
 - I speak French (natively), English (915 TOEIC European test) and a bit of Spanish (pero voy a necesitar tiempo para hacer una frase jaja).
 
-![LaneSh4d0w's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanesh4d0w&show_icons=true)
+![LaneSh4d0w's GitHub stats](https://github-readme-stats.vercel.app/api?username=BellezaEmporium&show_icons=true)
