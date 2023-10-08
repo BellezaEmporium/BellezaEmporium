@@ -5,8 +5,8 @@ I'm a polyvalent developer, aiming to discover and improve myself on many progra
 
 You might know me from the [query-streamlink](https://github.com/LaneSh4d0w/query-streamlink) project, that permitted to open new doors for making live streams available for everyone, or for being one of the many translators of PCSX2, for the French language.
 
-- 🔭 I’m currently finishing my IT engineering studies.
-- 🌱 I'm on a work/study course in an multinational company.
+- 🔭 I’m currently diplomed !
+- 🌱 I'm looking for a job.
 - 📫 I've worked in the fields of Web development and on Artificial Intelligence (see my repos and commits).
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I'm stubborn (whoops !).
