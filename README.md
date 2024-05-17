@@ -20,5 +20,5 @@ You might know me from the [query-streamlink](https://github.com/LaneSh4d0w/quer
 
 ![LaneSh4d0w's GitHub stats](https://github-readme-stats.vercel.app/api?username=BellezaEmporium&show_icons=true)
 
-If you're interested in JavaScript and want to see some interesting implementations, I suggest you to take a look at one of my engineering colleagues' GitHub profile named [Leafgard](https://github.com/Leafgard)).
-If you're interested in Go and want to see some interesting implementations, I suggest you to take a look at one of my engineering colleagues' GitHub profile named [Karitham](https://github.com/Karitham)).
+If you're interested in JavaScript and want to see some interesting implementations, I suggest you to take a look at one of my engineering colleagues' GitHub profile named [Leafgard](https://github.com/Leafgard).
+If you're interested in Go and want to see some interesting implementations, I suggest you to take a look at one of my engineering colleagues' GitHub profile named [Karitham](https://github.com/Karitham).
