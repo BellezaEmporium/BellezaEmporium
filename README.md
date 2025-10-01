@@ -6,10 +6,10 @@ I'm an diplomed engineer specialised in IT, and I develop on many different lang
 You might know me from the [query-streamlink](https://github.com/LaneSh4d0w/query-streamlink) project, that permitted to open new doors for making live streams available for everyone, or for being one of the many translators of PCSX2, for the French language.
 
 - 🌱 I'm currently looking for a job.
-- 📫 I've worked in the fields of Web development and on Artificial Intelligence (see my repos and commits).
+- 📫 I've worked in the fields of development (see my repos and commits).
 - 😄 Pronouns: he/him.
 - ⚡ I've already worked or have knowledge with :
-  - these programming languages : C, C++, C#, Python, Java, JavaScript, HTML, CSS, PHP, a little bit of Go 
+  - these programming languages : C, C++, C#, Python, Java, JavaScript, HTML, CSS, PHP, a little bit of Go
   - these runtime environments : Node.js, Java Environment (JDK/JRE)
   - these frameworks : front & back = PHP -> Symfony, Laravel | frontend only = JS -> a little bit of React and Vue
   - these backend libraries : JS -> Express.js / ORMs like Eloquent and Doctrine
