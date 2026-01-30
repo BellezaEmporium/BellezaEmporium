@@ -5,6 +5,8 @@ I'm an diplomed IT engineer, and I develop on many different languages, aiming t
 
 You might know me for being one of the many translators of PCSX2, for the French language, or because you've used one of my GOG Galaxy plugins !
 
+If you think my work helped you, you can consider sending out a Ko-Fi ! :) https://ko-fi.com/shadx777
+
 - 🌱 I'm currently looking for a job.
 - 📫 I've worked in the fields of development.
 - 😄 Pronouns: he/him.
