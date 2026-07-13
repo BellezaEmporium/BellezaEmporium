@@ -13,9 +13,9 @@ If you think my work helped you, you can consider sending out a Ko-Fi ! :) https
 - ⚡ I've already worked or have knowledge with :
   - these programming languages : C, C++, C#, Python, Java, **JavaScript**, **HTML**, **CSS**, **PHP**, a little bit of Go
   - these runtime environments : **Node.js**, Java Environment (JDK/JRE)
-  - these frameworks : front & back = PHP -> **Symfony**, Laravel | frontend only = JS -> a little bit of React and Vue
+  - these frameworks : front & back = PHP -> **Symfony/Twig**, Laravel/Blade | frontend only = JS -> a little bit of React and Vue
   - these backend libraries : JS -> Express.js / ORMs like Eloquent and **Doctrine**
-  - these SQL engines : **mySQ**L, MongoDB, Oracle DB
+  - these SQL engines : **mySQL**, MongoDB, Oracle DB
   - these IDEs : Visual Studio (both Code and 2017/2019/2022), Eclipse (Java), JetBrains suite (PyCharm, IntelliJ, WebStorm, PHPStorm)
 *And I'm looking forward to learn more. All of the highlighted languages are what I'm most experimented on.*
 - 🌐 I speak French (natively), English (915 TOEIC, B2/C1 per the European framework) and a bit of Spanish (B1 per the European framework).
