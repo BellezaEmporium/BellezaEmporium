@@ -1,26 +1,130 @@
-### You found me, congratulations !
+# Hi there! 👋 I'm Ismaël
 
-Greetings young padawan. 
-I'm an diplomed IT engineer, and I develop on many different languages, aiming to discover and improve myself (such as PHP with Symfony or Laravel, C#, Python and JavaScript...).
+I'm an engineer specialized in IT, passionate about software development, open source, and learning new technologies.
 
-You might know me for being one of the many translators of PCSX2, for the French language, or because you've used one of my GOG Galaxy plugins !
+You may know me as one of the French translators for **PCSX2**, or through one of my **GOG Galaxy integrations**.
 
-If you think my work helped you, you can consider sending out a Ko-Fi ! :) https://ko-fi.com/bellezaemporium
+If my work has helped you and you'd like to support it, feel free to buy me a coffee!
 
-- 🌱 I'm currently looking for a job.
-- 📫 I've worked in the fields of development.
-- 😄 Pronouns: he/him.
-- ⚡ I've already worked or have knowledge with :
-  - these programming languages : C, C++, C#, Python, Java, **JavaScript**, **HTML**, **CSS**, **PHP**, a little bit of Go
-  - these runtime environments : **Node.js**, Java Environment (JDK/JRE)
-  - these frameworks : front & back = PHP -> **Symfony/Twig**, Laravel/Blade | frontend only = JS -> a little bit of React and Vue
-  - these backend libraries : JS -> Express.js / ORMs like Eloquent and **Doctrine**
-  - these SQL engines : **mySQL**, MongoDB, Oracle DB
-  - these IDEs : Visual Studio (both Code and 2017/2019/2022), Eclipse (Java), JetBrains suite (PyCharm, IntelliJ, WebStorm, PHPStorm)
-*And I'm looking forward to learn more. All of the highlighted languages are what I'm most experimented on.*
-- 🌐 I speak French (natively), English (915 TOEIC, B2/C1 per the European framework) and a bit of Spanish (B1 per the European framework).
+<a href="https://ko-fi.com/bellezaemporium">
+    <img src="https://img.shields.io/badge/Ko--fi-Support%20my%20work-ff5f5f?logo=kofi&logoColor=white">
+</a>
 
-![LaneSh4d0w's GitHub stats](https://github-readme-stats.vercel.app/api?username=BellezaEmporium&show_icons=true)
+---
 
-If you're interested in JavaScript and want to see some interesting implementations, I suggest you to take a look at one of my engineering colleagues' GitHub profile named [Leafgard](https://github.com/Leafgard).
-If you're interested in Go and want to see some interesting implementations, I suggest you to take a look at one of my engineering colleagues' GitHub profile named [Karitham](https://github.com/Karitham).
+## 🚀 About me
+
+- 🎓 Engineer in IT
+- 🌱 Currently looking for a software / web developer position
+- 💻 Passionate about backend development and desktop applications
+- 🌍 Open-source contributor
+- 📍 France
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+
+---
+
+### Backend
+
+- Symfony
+- Laravel *(basic+)*
+- Express.js
+- Doctrine ORM
+- Eloquent ORM
+
+---
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- Twig
+- Blade
+- React *(basic)*
+- Vue *(basic)*
+
+---
+
+### Runtime
+
+- Node.js
+- Java Runtime Environment (JDK/JRE) *(basic)*
+
+---
+
+### Databases
+
+- MySQL
+- MongoDB
+- Oracle Database
+
+---
+
+### Tools
+
+- Visual Studio
+- Visual Studio Code
+- PhpStorm
+- WebStorm
+- IntelliJ IDEA
+- PyCharm
+- Eclipse
+- Git
+
+---
+
+## 🌍 Languages
+
+| Language | Level |
+|-----------|-------|
+| 🇫🇷 French | Native |
+| 🇬🇧 English | TOEIC 915 (CEFR B2/C1) |
+| 🇪🇸 Spanish | CEFR B1 |
+
+---
+
+## ⭐ Open Source
+
+- 🇫🇷 French translator for **PCSX2**
+- 🎮 Creator of several **GOG Galaxy integrations**
+- ❤️ Contributor to various open-source projects
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=BellezaEmporium&show_icons=true&hide_border=true">
+</p>
+
+---
+
+## 🤝 Developers worth checking out
+
+If you're interested in elegant JavaScript implementations:
+
+➡️ **Leafgard**  
+https://github.com/Leafgard
+
+If you're interested in Go:
+
+➡️ **Karitham**  
+https://github.com/Karitham
+
+---
+
+> *"Always learning, always building."*
