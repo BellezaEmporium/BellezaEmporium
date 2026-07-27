@@ -31,6 +31,10 @@ If my work has helped you and you'd like to support it, feel free to buy me a co
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
+### Currently learning
+
+![Rust](https://img.shields.io/badge/Rust-C36241?logo=rust&logoColor=black)
+
 ---
 
 ### Backend
