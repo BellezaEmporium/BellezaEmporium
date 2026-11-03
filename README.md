@@ -108,7 +108,7 @@ If my work has helped you and you'd like to support it, feel free to buy me a co
 ## 📈 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=BellezaEmporium&show_icons=true&hide_border=true">
+    <img src="https://github-stats-extended.vercel.app/api?username=BellezaEmporium&show_icons=true&hide_border=true">
 </p>
 
 ---
