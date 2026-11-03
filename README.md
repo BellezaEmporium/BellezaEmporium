@@ -35,6 +35,10 @@ If my work has helped you and you'd like to support it, feel free to buy me a co
 
 ![Rust](https://img.shields.io/badge/Rust-C36241?logo=rust&logoColor=black)
 
+### Current coding stats
+
+![Coding stats](https://github-stats-extended.vercel.app/api/top-langs?username=BellezaEmporium&layout=donut&langs_count=5&theme=radical)
+
 ---
 
 ### Backend
@@ -107,9 +111,7 @@ If my work has helped you and you'd like to support it, feel free to buy me a co
 
 ## 📈 GitHub Stats
 
-<p align="center">
-    <img src="https://github-stats-extended.vercel.app/api?username=BellezaEmporium&show_icons=true&hide_border=true">
-</p>
+![My stats](https://github-stats-extended.vercel.app/api?username=BellezaEmporium&custom_title=My%20current%20stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=radical)
 
 ---
 
